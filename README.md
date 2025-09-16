@@ -29,7 +29,6 @@ _A creative game project developed for the Brackeys 2025 Game Jam. Dive in to se
 
 ## 🔥 Other Cool Projects
 - [Mobile Final Project](https://github.com/Roseburgendy/mobile_finalProject)
-- [Online Final Project New](https://github.com/Roseburgendy/online_finalProject_New)
 - [Online Game FP](https://github.com/Roseburgendy/online_game_FP)
 - [Mobile Group Assignment](https://github.com/Roseburgendy/Mobile_GroupAssignment)
 
