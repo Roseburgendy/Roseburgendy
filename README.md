@@ -26,16 +26,12 @@ Welcome to my page & Nice to meet you! I enjoy building games and interactive ex
 ##  🔭 I’m currently working on ...
 - [**Personal Portfolio**](https://github.com/Roseburgendy/personal-portfolio)
 
-_Personal Portfolio built with React, Vite & Tailwind CSS Framework(DEVELOPING)
+Personal Portfolio built with React, Vite & Tailwind CSS Framework(Under development)
 
-- [**GoldenBiscuit_Brackeys2025_Unity**](https://github.com/maomaonwn/GoldenBiscuit_Brackeys2025_Unity)  
+- [**VR breathing intervention**](https://github.com/Roseburgendy/VR_Breathing_Intervention)  
 
-_A creative game project developed for the Brackeys 2025 Game Jam. Dive in to see my approach to gameplay mechanics, design, and teamwork!_
+My undergraduate final year project that design and evaluate a VR breathing exercise serious game with storytelling feature. Check it out!
 
-## 🔥 Other Cool Projects
-- [Mobile Final Project](https://github.com/Roseburgendy/mobile_finalProject)
-- [Online Game FP](https://github.com/Roseburgendy/online_game_FP)
-- [Mobile Group Assignment](https://github.com/Roseburgendy/Mobile_GroupAssignment)
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ye-wang-b385aa314/)
