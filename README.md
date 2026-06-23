@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Ye（Freya) Wang!
 
-🎮 **Game Programmer & Designer | Student**
+ **Developer/Student** (she/her/hers)
 
-Welcome to my page & Nice to meet you! I enjoy building games and interactive experiences, working across multiple platforms and technologies.
+Welcome to my page & Nice to meet you! I am a incoming MS CSE student @gatech. Enjoy building games and interactive experiences, working across multiple platforms and technologies. 
 
-## 🚀 Skills
+## Skills
 - **Languages:** C#, C++, Python
 - **Frameworks:** React, Flutter
 - **Tools:** Git, Unity, Unreal Engine, Adobe Creative Suites
 
-##  🔭 I’m currently working on ...
+##  Projects
 - [**Personal Portfolio**](https://github.com/Roseburgendy/personal-portfolio)
 
 Personal Portfolio built with React, Vite & Tailwind CSS Framework(Under development)
@@ -33,9 +33,6 @@ Personal Portfolio built with React, Vite & Tailwind CSS Framework(Under develop
 My undergraduate final year project that design and evaluate a VR breathing exercise serious game with storytelling feature. Check it out!
 
 
-## 📫 How to reach me:
+## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ye-wang-b385aa314/)
 
----
-
-_“A game programmer and designer passionate about turning ideas into playable realities.”_
