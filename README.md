@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Rose Wang!
+# 👋 Hi, I'm Ye（Freya) Wang!
 
 🎮 **Game Programmer & Designer | Student**
 
